@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jamiaprephub.github.io/jmi-guide/sitemap.xml
